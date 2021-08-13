@@ -9,5 +9,5 @@
 </h2>
 
 - 👀 I’m interested in p2p-networks
-- 🌱 I’m currently learning software-testing
+- 🌱 I’m currently learning software-testing and java
 - 📫 Reach me through email at teicheld@web.de
