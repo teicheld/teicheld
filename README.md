@@ -4,9 +4,6 @@
 </h1>
 
 <h2 align=center> 
- 
-📚 Student at [42 Amsterdam](https://Codam.nl/en/)  📚 
-</h2>
 
 - 👀 I’m interested in p2p-networks
 - 🌱 I’m currently learning software-testing and java
