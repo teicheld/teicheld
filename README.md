@@ -6,5 +6,5 @@
 <h2 align=center> 
 
 - 👀 I’m interested in p2p-networks
-- 🌱 I’m currently learning software-testing and java
+- 🌱 I’m currently learning lua and python
 - 📫 Reach me through email at teicheld@web.de
